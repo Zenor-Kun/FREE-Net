@@ -7,7 +7,7 @@ By combining these two perspectives, FREE-Net effectively addresses the challeng
 This paper is currently under review in the **Neurocomputing** journal.
 
 - [ ] **2024.12.10 Release Preprint Paper.**  
-- [ ] **2024.12.15 Release Data Processing Code.**  
+- [ ] **2024.12.20 Release Data Processing Code.**  
 - [ ] **2025.01.01 Release Core Models.**  
 - [ ] **2025.01.01 Release Inference Files.**  
 - [ ] **2025.02.01 Release All Trained Models.**  
